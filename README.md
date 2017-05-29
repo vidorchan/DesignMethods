@@ -2,3 +2,4 @@
 "2.singleton"<br/>
 "3.adapter"<br/>
 "4.facade"<br/>
+"5.builder"<br/>
