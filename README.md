@@ -1,2 +1,3 @@
-"1.abstract factory"
-"2.lazy singleton"
+"1.abstract factory"<br/>
+"2.lazy singleton"<br/>
+"3.adapter"<br/>
